@@ -1,0 +1,3470 @@
+{
+    "T1055.011": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Extra Window Memory Injection?"
+    },
+    "T1053.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Scheduled Task?"
+    },
+    "T1205.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Socket Filters?"
+    },
+    "T1066": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Indicator Removal from Tools?"
+    },
+    "T1560.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Archive via Utility?"
+    },
+    "T1021.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: VNC?"
+    },
+    "T1047": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Windows Management Instrumentation?"
+    },
+    "T1687": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exploitation for Defense Impairment?"
+    },
+    "T1156": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Malicious Shell Modification?"
+    },
+    "T1113": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Screen Capture?"
+    },
+    "T1027.011": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Fileless Storage?"
+    },
+    "T1067": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Bootkit?"
+    },
+    "T1037": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Boot or Logon Initialization Scripts?"
+    },
+    "T1557": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Adversary-in-the-Middle?"
+    },
+    "T1033": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Owner/User Discovery?"
+    },
+    "T1583": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Acquire Infrastructure?"
+    },
+    "T1218.011": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Rundll32?"
+    },
+    "T1613": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Container and Resource Discovery?"
+    },
+    "T1583.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Serverless?"
+    },
+    "T1143": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hidden Window?"
+    },
+    "T1161": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: LC_LOAD_DYLIB Addition?"
+    },
+    "T1132.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Standard Encoding?"
+    },
+    "T1027.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Embedded Payloads?"
+    },
+    "T1150": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Plist Modification?"
+    },
+    "T1556.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Pluggable Authentication Modules?"
+    },
+    "T1578.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Revert Cloud Instance?"
+    },
+    "T1148": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: HISTCONTROL?"
+    },
+    "T1592": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Gather Victim Host Information?"
+    },
+    "T1596.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Digital Certificates?"
+    },
+    "T1056.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Keylogging?"
+    },
+    "T1564.012": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: File/Path Exclusions?"
+    },
+    "T1222.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Linux and Mac Permissions?"
+    },
+    "T1110.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Password Guessing?"
+    },
+    "T1216.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: PubPrn?"
+    },
+    "T1597.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Purchase Technical Data?"
+    },
+    "T1003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: OS Credential Dumping?"
+    },
+    "T1129": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Shared Modules?"
+    },
+    "T1602": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data from Configuration Repository?"
+    },
+    "T1561.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disk Structure Wipe?"
+    },
+    "T1498.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Direct Network Flood?"
+    },
+    "T1492": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Stored Data Manipulation?"
+    },
+    "T1574.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Path Interception by PATH Environment Variable?"
+    },
+    "T1213.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Sharepoint?"
+    },
+    "T1006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Direct Volume Access?"
+    },
+    "T1044": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: File System Permissions Weakness?"
+    },
+    "T1588.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Artificial Intelligence?"
+    },
+    "T1666": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Modify Cloud Resource Hierarchy?"
+    },
+    "T1564.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Email Hiding Rules?"
+    },
+    "T1491.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: External Defacement?"
+    },
+    "T1027.013": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Encrypted/Encoded File?"
+    },
+    "T1171": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: LLMNR/NBT-NS Poisoning and Relay?"
+    },
+    "T1590.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: IP Addresses?"
+    },
+    "T1499.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: OS Exhaustion Flood?"
+    },
+    "T1014": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Rootkit?"
+    },
+    "T1546.013": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: PowerShell Profile?"
+    },
+    "T1059.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: JavaScript?"
+    },
+    "T1685.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Modify or Spoof Tool UI?"
+    },
+    "T1590.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DNS?"
+    },
+    "T1501": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Systemd Service?"
+    },
+    "T1485.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Lifecycle-Triggered Deletion?"
+    },
+    "T1514": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Elevated Execution with Prompt?"
+    },
+    "T1123": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Audio Capture?"
+    },
+    "T1543": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Create or Modify System Process?"
+    },
+    "T1133": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: External Remote Services?"
+    },
+    "T1109": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Component Firmware?"
+    },
+    "T1546.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: LC_LOAD_DYLIB Addition?"
+    },
+    "T1539": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Steal Web Session Cookie?"
+    },
+    "T1053.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Container Orchestration Job?"
+    },
+    "T1568.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain Generation Algorithms?"
+    },
+    "T1036.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Double File Extension?"
+    },
+    "T1548.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Bypass User Account Control?"
+    },
+    "T1099": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Timestomp?"
+    },
+    "T1496.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SMS Pumping?"
+    },
+    "T1016.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Internet Connection Discovery?"
+    },
+    "T1548.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Sudo and Sudo Caching?"
+    },
+    "T1685.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable or Modify Windows Event Log?"
+    },
+    "T1682": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Query Public AI Services?"
+    },
+    "T1560.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Archive via Custom Method?"
+    },
+    "T1578": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Modify Cloud Compute Infrastructure?"
+    },
+    "T1584.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Devices?"
+    },
+    "T1583.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Malvertising?"
+    },
+    "T1069": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Permission Groups Discovery?"
+    },
+    "T1114": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Email Collection?"
+    },
+    "T1003.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Security Account Manager?"
+    },
+    "T1596.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: WHOIS?"
+    },
+    "T1542.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Firmware?"
+    },
+    "T1594": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Search Victim-Owned Websites?"
+    },
+    "T1069.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Groups?"
+    },
+    "T1574.011": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Services Registry Permissions Weakness?"
+    },
+    "T1596.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DNS/Passive DNS?"
+    },
+    "T1499.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Application Exhaustion Flood?"
+    },
+    "T1163": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Rc.common?"
+    },
+    "T1195.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compromise Software Dependencies and Development Tools?"
+    },
+    "T1588.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Digital Certificates?"
+    },
+    "T1583.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DNS Server?"
+    },
+    "T1561": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disk Wipe?"
+    },
+    "T1071.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DNS?"
+    },
+    "T1552.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Instance Metadata API?"
+    },
+    "T1555.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Securityd Memory?"
+    },
+    "T1615": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Group Policy Discovery?"
+    },
+    "T1542.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Bootkit?"
+    },
+    "T1025": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data from Removable Media?"
+    },
+    "T1116": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Code Signing?"
+    },
+    "T1218.013": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Mavinject?"
+    },
+    "T1522": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Instance Metadata API?"
+    },
+    "T1093": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Process Hollowing?"
+    },
+    "T1074.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Local Data Staging?"
+    },
+    "T1036.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Match Legitimate Resource Name or Location?"
+    },
+    "T1172": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain Fronting?"
+    },
+    "T1587.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Digital Certificates?"
+    },
+    "T1565.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Stored Data Manipulation?"
+    },
+    "T1110.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Password Cracking?"
+    },
+    "T1178": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SID-History Injection?"
+    },
+    "T1114.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Local Email Collection?"
+    },
+    "T1555.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Keychain?"
+    },
+    "T1547": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Boot or Logon Autostart Execution?"
+    },
+    "T1003.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: LSA Secrets?"
+    },
+    "T1013": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Port Monitors?"
+    },
+    "T1600": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Weaken Encryption?"
+    },
+    "T1606.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SAML Tokens?"
+    },
+    "T1192": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spearphishing Link?"
+    },
+    "T1036.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Masquerade File Type?"
+    },
+    "T1489": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Service Stop?"
+    },
+    "T1587.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Malware?"
+    },
+    "T1121": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Regsvcs/Regasm?"
+    },
+    "T1652": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Device Driver Discovery?"
+    },
+    "T1206": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Sudo Caching?"
+    },
+    "T1087.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain Account?"
+    },
+    "T1547.014": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Active Setup?"
+    },
+    "T1564": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hide Artifacts?"
+    },
+    "T1559.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Dynamic Data Exchange?"
+    },
+    "T1204.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Malicious File?"
+    },
+    "T1591.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Identify Business Tempo?"
+    },
+    "T1685.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable or Modify Linux Audit System Log?"
+    },
+    "T1063": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Security Software Discovery?"
+    },
+    "T1071.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Publish/Subscribe Protocols?"
+    },
+    "T1592.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hardware?"
+    },
+    "T1080": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Taint Shared Content?"
+    },
+    "T1484.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Trust Modification?"
+    },
+    "T1213.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Databases?"
+    },
+    "T1573.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Symmetric Cryptography?"
+    },
+    "T1087.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Local Account?"
+    },
+    "T1167": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Securityd Memory?"
+    },
+    "T1586.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Social Media Accounts?"
+    },
+    "T1176.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Browser Extensions?"
+    },
+    "T1527": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Application Access Token?"
+    },
+    "T1562.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Safe Mode Boot?"
+    },
+    "T1180": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Screensaver?"
+    },
+    "T1542.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: TFTP Boot?"
+    },
+    "T1686.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Windows Host Firewall?"
+    },
+    "T1543.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Windows Service?"
+    },
+    "T1568.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Fast Flux DNS?"
+    },
+    "T1497.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Checks?"
+    },
+    "T1053.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cron?"
+    },
+    "T1069.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain Groups?"
+    },
+    "T1588.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Vulnerabilities?"
+    },
+    "T1566.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spearphishing Link?"
+    },
+    "T1165": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Startup Items?"
+    },
+    "T1070.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Clear Linux or Mac System Logs?"
+    },
+    "T1499.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Application or System Exploitation?"
+    },
+    "T1137": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Office Application Startup?"
+    },
+    "T1218.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: InstallUtil?"
+    },
+    "T1598.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spearphishing Link?"
+    },
+    "T1021.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SSH?"
+    },
+    "T1098.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Additional Cloud Roles?"
+    },
+    "T1547.012": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Print Processors?"
+    },
+    "T1089": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disabling Security Tools?"
+    },
+    "T1487": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disk Structure Wipe?"
+    },
+    "T1566.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spearphishing Attachment?"
+    },
+    "T1214": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Credentials in Registry?"
+    },
+    "T1027.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Stripped Payloads?"
+    },
+    "T1559.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Component Object Model?"
+    },
+    "T1574.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DLL?"
+    },
+    "T1119": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Automated Collection?"
+    },
+    "T1689": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Downgrade Attack?"
+    },
+    "T1115": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Clipboard Data?"
+    },
+    "T1003.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Proc Filesystem?"
+    },
+    "T1583.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Botnet?"
+    },
+    "T1555.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Password Managers?"
+    },
+    "T1103": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: AppInit DLLs?"
+    },
+    "T1553.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Gatekeeper Bypass?"
+    },
+    "T1675": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: ESXi Administration Command?"
+    },
+    "T1608.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Drive-by Target?"
+    },
+    "T1007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Service Discovery?"
+    },
+    "T1040": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Sniffing?"
+    },
+    "T1017": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Application Deployment Software?"
+    },
+    "T1553.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Code Signing?"
+    },
+    "T1530": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data from Cloud Storage?"
+    },
+    "T1565.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Runtime Data Manipulation?"
+    },
+    "T1552.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Credentials in Registry?"
+    },
+    "T1135": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Share Discovery?"
+    },
+    "T1120": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Peripheral Device Discovery?"
+    },
+    "T1036.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Break Process Trees?"
+    },
+    "T1590.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Topology?"
+    },
+    "T1587.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Code Signing Certificates?"
+    },
+    "T1222.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Windows Permissions?"
+    },
+    "T1137.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Add-ins?"
+    },
+    "T1685.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable or Modify Cloud Log?"
+    },
+    "T1505.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Transport Agent?"
+    },
+    "T1082": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Information Discovery?"
+    },
+    "T1071": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Application Layer Protocol?"
+    },
+    "T1574.014": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: AppDomainManager?"
+    },
+    "T1074.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Remote Data Staging?"
+    },
+    "T1098.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Additional Container Cluster Roles?"
+    },
+    "T1053": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Scheduled Task/Job?"
+    },
+    "T1218.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Msiexec?"
+    },
+    "T1162": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Login Item?"
+    },
+    "T1590.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Trust Dependencies?"
+    },
+    "T1498.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Reflection Amplification?"
+    },
+    "T1556.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Password Filter DLL?"
+    },
+    "T1505.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Terminal Services DLL?"
+    },
+    "T1059.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: AppleScript?"
+    },
+    "T1176": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Software Extensions?"
+    },
+    "T1499.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Service Exhaustion Flood?"
+    },
+    "T1195.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compromise Hardware Supply Chain?"
+    },
+    "T1106": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Native API?"
+    },
+    "T1558.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Ccache Files?"
+    },
+    "T1070.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Clear Network Connection History and Configurations?"
+    },
+    "T1558.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: AS-REP Roasting?"
+    },
+    "T1058": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Service Registry Permissions Weakness?"
+    },
+    "T1584.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Virtual Private Server?"
+    },
+    "T1059.010": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: AutoHotKey & AutoIT?"
+    },
+    "T1600.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Reduce Key Space?"
+    },
+    "T1070.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Clear Command History?"
+    },
+    "T1202": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Indirect Command Execution?"
+    },
+    "T1024": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Custom Cryptographic Protocol?"
+    },
+    "T1536": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Revert Cloud Instance?"
+    },
+    "T1091": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Replication Through Removable Media?"
+    },
+    "T1005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data from Local System?"
+    },
+    "T1140": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Deobfuscate/Decode Files or Information?"
+    },
+    "T1137.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Outlook Rules?"
+    },
+    "T1562": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Impair Defenses?"
+    },
+    "T1586.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Accounts?"
+    },
+    "T1586.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Email Accounts?"
+    },
+    "T1098.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Additional Local or Domain Groups?"
+    },
+    "T1608.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Upload Malware?"
+    },
+    "T1195": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Supply Chain Compromise?"
+    },
+    "T1190": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exploit Public-Facing Application?"
+    },
+    "T1558": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Steal or Forge Kerberos Tickets?"
+    },
+    "T1555": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Credentials from Password Stores?"
+    },
+    "T1567": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration Over Web Service?"
+    },
+    "T1219": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Remote Access Tools?"
+    },
+    "T1583.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domains?"
+    },
+    "T1560.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Archive via Library?"
+    },
+    "T1055.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Thread Execution Hijacking?"
+    },
+    "T1684": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Social Engineering?"
+    },
+    "T1079": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Multilayer Encryption?"
+    },
+    "T1036": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Masquerading?"
+    },
+    "T1546.011": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Application Shimming?"
+    },
+    "T1552": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Unsecured Credentials?"
+    },
+    "T1547.010": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Port Monitors?"
+    },
+    "T1070.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Clear Mailbox Data?"
+    },
+    "T1037.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Login Hook?"
+    },
+    "T1659": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Content Injection?"
+    },
+    "T1055": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Process Injection?"
+    },
+    "T1567.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration Over Webhook?"
+    },
+    "T1139": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Bash History?"
+    },
+    "T1205": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Traffic Signaling?"
+    },
+    "T1021.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Direct Cloud VM Connections?"
+    },
+    "T1503": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Credentials from Web Browsers?"
+    },
+    "T1218": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Binary Proxy Execution?"
+    },
+    "T1153": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Source?"
+    },
+    "T1038": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DLL Search Order Hijacking?"
+    },
+    "T1050": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: New Service?"
+    },
+    "T1070.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Timestomp?"
+    },
+    "T1557.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Evil Twin?"
+    },
+    "T1620": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Reflective Code Loading?"
+    },
+    "T1016.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Wi-Fi Discovery?"
+    },
+    "T1480.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Mutual Exclusion?"
+    },
+    "T1564.011": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Ignore Process Interrupts?"
+    },
+    "T1611": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Escape to Host?"
+    },
+    "T1518.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Backup Software Discovery?"
+    },
+    "T1547.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Shortcut Modification?"
+    },
+    "T1010": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Application Window Discovery?"
+    },
+    "T1569.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Systemctl?"
+    },
+    "T1032": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Standard Cryptographic Protocol?"
+    },
+    "T1087.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Email Account?"
+    },
+    "T1062": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hypervisor?"
+    },
+    "T1497.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Time Based Checks?"
+    },
+    "T1182": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: AppCert DLLs?"
+    },
+    "T1218.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: CMSTP?"
+    },
+    "T1563.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SSH Hijacking?"
+    },
+    "T1562.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable Windows Event Logging?"
+    },
+    "T1029": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Scheduled Transfer?"
+    },
+    "T1021.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SMB/Windows Admin Shares?"
+    },
+    "T1525": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Implant Internal Image?"
+    },
+    "T1572": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Protocol Tunneling?"
+    },
+    "T1218.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Control Panel?"
+    },
+    "T1599.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Address Translation Traversal?"
+    },
+    "T1608.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Upload Tool?"
+    },
+    "T1547.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Security Support Provider?"
+    },
+    "T1036.011": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Overwrite Process Arguments?"
+    },
+    "T1004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Winlogon Helper DLL?"
+    },
+    "T1009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Binary Padding?"
+    },
+    "T1550": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Use Alternate Authentication Material?"
+    },
+    "T1076": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Remote Desktop Protocol?"
+    },
+    "T1597.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Threat Intel Vendors?"
+    },
+    "T1011": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration Over Other Network Medium?"
+    },
+    "T1602.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Device Configuration Dump?"
+    },
+    "T1589": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Gather Victim Identity Information?"
+    },
+    "T1131": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Authentication Package?"
+    },
+    "T1181": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Extra Window Memory Injection?"
+    },
+    "T1562.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable or Modify System Firewall?"
+    },
+    "T1560": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Archive Collected Data?"
+    },
+    "T1152": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Launchctl?"
+    },
+    "T1553.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SIP and Trust Provider Hijacking?"
+    },
+    "T1483": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain Generation Algorithms?"
+    },
+    "T1185": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Browser Session Hijacking?"
+    },
+    "T1021": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Remote Services?"
+    },
+    "T1071.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Mail Protocols?"
+    },
+    "T1556.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hybrid Identity?"
+    },
+    "T1595.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Vulnerability Scanning?"
+    },
+    "T1059.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud API?"
+    },
+    "T1596": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Search Open Technical Databases?"
+    },
+    "T1218.015": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Electron Applications?"
+    },
+    "T1562.012": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable or Modify Linux Audit System?"
+    },
+    "T1207": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Rogue Domain Controller?"
+    },
+    "T1553.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Code Signing Policy Modification?"
+    },
+    "T1610": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Deploy Container?"
+    },
+    "T1107": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: File Deletion?"
+    },
+    "T1145": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Private Keys?"
+    },
+    "T1112": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Modify Registry?"
+    },
+    "T1543.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Launch Daemon?"
+    },
+    "T1580": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Infrastructure Discovery?"
+    },
+    "T1555.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Credentials from Web Browsers?"
+    },
+    "T1574.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Path Interception by Search Order Hijacking?"
+    },
+    "T1491": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Defacement?"
+    },
+    "T1535": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Unused/Unsupported Cloud Regions?"
+    },
+    "T1557.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DHCP Spoofing?"
+    },
+    "T1155": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: AppleScript?"
+    },
+    "T1563": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Remote Service Session Hijacking?"
+    },
+    "T1564.013": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Bind Mounts?"
+    },
+    "T1027.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Binary Padding?"
+    },
+    "T1505.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Web Shell?"
+    },
+    "T1484.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Group Policy Modification?"
+    },
+    "T1685.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Clear Linux or Mac System Logs?"
+    },
+    "T1217": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Browser Information Discovery?"
+    },
+    "T1552.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Private Keys?"
+    },
+    "T1583.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Server?"
+    },
+    "T1021.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Windows Remote Management?"
+    },
+    "T1011.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration Over Bluetooth?"
+    },
+    "T1078.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Default Accounts?"
+    },
+    "T1547.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Time Providers?"
+    },
+    "T1183": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Image File Execution Options Injection?"
+    },
+    "T1085": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Rundll32?"
+    },
+    "T1031": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Modify Existing Service?"
+    },
+    "T1546.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Trap?"
+    },
+    "T1574.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Dynamic Linker Hijacking?"
+    },
+    "T1136.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Local Account?"
+    },
+    "T1681": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Search Threat Vendor Data?"
+    },
+    "T1674": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Input Injection?"
+    },
+    "T1092": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Communication Through Removable Media?"
+    },
+    "T1070.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Clear Windows Event Logs?"
+    },
+    "T1585.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Email Accounts?"
+    },
+    "T1557.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Name Resolution Poisoning and SMB Relay?"
+    },
+    "T1222": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: File and Directory Permissions Modification?"
+    },
+    "T1003.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: LSASS Memory?"
+    },
+    "T1053.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: At (Linux)?"
+    },
+    "T1176.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: IDE Extensions?"
+    },
+    "T1179": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hooking?"
+    },
+    "T1595": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Active Scanning?"
+    },
+    "T1027.016": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Junk Code Insertion?"
+    },
+    "T1547.011": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Plist Modification?"
+    },
+    "T1548": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Abuse Elevation Control Mechanism?"
+    },
+    "T1134.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Create Process with Token?"
+    },
+    "T1548.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Setuid and Setgid?"
+    },
+    "T1547.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Winlogon Helper DLL?"
+    },
+    "T1019": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Firmware?"
+    },
+    "T1021.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Distributed Component Object Model?"
+    },
+    "T1042": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Change Default File Association?"
+    },
+    "T1117": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Regsvr32?"
+    },
+    "T1110.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Password Spraying?"
+    },
+    "T1090.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: External Proxy?"
+    },
+    "T1056.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Web Portal Capture?"
+    },
+    "T1589.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Email Addresses?"
+    },
+    "T1164": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Re-opened Applications?"
+    },
+    "T1054": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Indicator Blocking?"
+    },
+    "T1598.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spearphishing Voice?"
+    },
+    "T1683.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Written Content?"
+    },
+    "T1108": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Redundant Access?"
+    },
+    "T1193": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spearphishing Attachment?"
+    },
+    "T1003.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cached Domain Credentials?"
+    },
+    "T1098.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SSH Authorized Keys?"
+    },
+    "T1673": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Virtual Machine Discovery?"
+    },
+    "T1215": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Kernel Modules and Extensions?"
+    },
+    "T1101": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Security Support Provider?"
+    },
+    "T1590.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Security Appliances?"
+    },
+    "T1546.012": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Image File Execution Options Injection?"
+    },
+    "T1218.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Odbcconf?"
+    },
+    "T1593.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Search Engines?"
+    },
+    "T1177": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: LSASS Driver?"
+    },
+    "T1591.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Business Relationships?"
+    },
+    "T1548.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Temporary Elevated Cloud Access?"
+    },
+    "T1125": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Video Capture?"
+    },
+    "T1144": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Gatekeeper Bypass?"
+    },
+    "T1045": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Software Packing?"
+    },
+    "T1055.013": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Process Doppelg\u00e4nging?"
+    },
+    "T1016": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Network Configuration Discovery?"
+    },
+    "T1578.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Delete Cloud Instance?"
+    },
+    "T1593.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Code Repositories?"
+    },
+    "T1574.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Executable Installer File Permissions Weakness?"
+    },
+    "T1546.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Accessibility Features?"
+    },
+    "T1496.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Bandwidth Hijacking?"
+    },
+    "T1504": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: PowerShell Profile?"
+    },
+    "T1198": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SIP and Trust Provider Hijacking?"
+    },
+    "T1087": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Account Discovery?"
+    },
+    "T1090": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Proxy?"
+    },
+    "T1059": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Command and Scripting Interpreter?"
+    },
+    "T1204.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Malicious Library?"
+    },
+    "T1562.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Indicator Blocking?"
+    },
+    "T1685.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Clear Windows Event Logs?"
+    },
+    "T1136.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain Account?"
+    },
+    "T1564.014": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Extended Attributes?"
+    },
+    "T1589.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Employee Names?"
+    },
+    "T1677": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Poisoned Pipeline Execution?"
+    },
+    "T1482": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain Trust Discovery?"
+    },
+    "T1558.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Golden Ticket?"
+    },
+    "T1175": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Component Object Model and Distributed COM?"
+    },
+    "T1020": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Automated Exfiltration?"
+    },
+    "T1592.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Client Configurations?"
+    },
+    "T1562.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable or Modify Cloud Firewall?"
+    },
+    "T1219.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: IDE Tunneling?"
+    },
+    "T1036.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Right-to-Left Override?"
+    },
+    "T1588.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Malware?"
+    },
+    "T1027.017": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SVG Smuggling?"
+    },
+    "T1542.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Component Firmware?"
+    },
+    "T1070": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Indicator Removal?"
+    },
+    "T1048.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration Over Symmetric Encrypted Non-C2 Protocol?"
+    },
+    "T1137.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Office Template Macros?"
+    },
+    "T1583.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Virtual Private Server?"
+    },
+    "T1213.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Confluence?"
+    },
+    "T1550.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Pass the Ticket?"
+    },
+    "T1609": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Container Administration Command?"
+    },
+    "T1083": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: File and Directory Discovery?"
+    },
+    "T1568": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Dynamic Resolution?"
+    },
+    "T1036.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Masquerade Task or Service?"
+    },
+    "T1055.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Asynchronous Procedure Call?"
+    },
+    "T1020.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Traffic Duplication?"
+    },
+    "T1138": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Application Shimming?"
+    },
+    "T1647": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Plist File Modification?"
+    },
+    "T1127.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: JamPlus?"
+    },
+    "T1546.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: AppCert DLLs?"
+    },
+    "T1191": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: CMSTP?"
+    },
+    "T1188": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Multi-hop Proxy?"
+    },
+    "T1114.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Email Forwarding Rule?"
+    },
+    "T1074": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data Staged?"
+    },
+    "T1649": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Steal or Forge Authentication Certificates?"
+    },
+    "T1098.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Device Registration?"
+    },
+    "T1049": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Network Connections Discovery?"
+    },
+    "T1584": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compromise Infrastructure?"
+    },
+    "T1553.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Mark-of-the-Web Bypass?"
+    },
+    "T1600.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable Crypto Hardware?"
+    },
+    "T1542": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Pre-OS Boot?"
+    },
+    "T1064": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Scripting?"
+    },
+    "T1612": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Build Image on Host?"
+    },
+    "T1051": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Shared Webroot?"
+    },
+    "T1055.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Portable Executable Injection?"
+    },
+    "T1218.012": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Verclsid?"
+    },
+    "T1586": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compromise Accounts?"
+    },
+    "T1569.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Launchctl?"
+    },
+    "T1584.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Botnet?"
+    },
+    "T1059.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Device CLI?"
+    },
+    "T1552.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Shell History?"
+    },
+    "T1562.010": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Downgrade Attack?"
+    },
+    "T1559.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: XPC Services?"
+    },
+    "T1497": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Virtualization/Sandbox Evasion?"
+    },
+    "T1102": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Web Service?"
+    },
+    "T1552.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Credentials In Files?"
+    },
+    "T1568.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DNS Calculation?"
+    },
+    "T1218.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Mshta?"
+    },
+    "T1547.015": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Login Items?"
+    },
+    "T1608": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Stage Capabilities?"
+    },
+    "T1608.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Link Target?"
+    },
+    "T1104": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Multi-Stage Channels?"
+    },
+    "T1657": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Financial Theft?"
+    },
+    "T1480": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Execution Guardrails?"
+    },
+    "T1619": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Storage Object Discovery?"
+    },
+    "T1606.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Web Cookies?"
+    },
+    "T1654": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Log Enumeration?"
+    },
+    "T1134.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Token Impersonation/Theft?"
+    },
+    "T1567.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration to Code Repository?"
+    },
+    "T1021.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Services?"
+    },
+    "T1205.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Port Knocking?"
+    },
+    "T1027.012": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: LNK Icon Smuggling?"
+    },
+    "T1583.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Web Services?"
+    },
+    "T1528": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Steal Application Access Token?"
+    },
+    "T1598.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spearphishing Attachment?"
+    },
+    "T1098.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Additional Cloud Credentials?"
+    },
+    "T1204": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: User Execution?"
+    },
+    "T1491.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Internal Defacement?"
+    },
+    "T1564.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hidden Users?"
+    },
+    "T1134.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Make and Impersonate Token?"
+    },
+    "T1552.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Group Policy Preferences?"
+    },
+    "T1196": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Control Panel Items?"
+    },
+    "T1048.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration Over Asymmetric Encrypted Non-C2 Protocol?"
+    },
+    "T1087.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Account?"
+    },
+    "T1683.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Audio-Visual Content?"
+    },
+    "T1057": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Process Discovery?"
+    },
+    "T1562.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Impair Command History Logging?"
+    },
+    "T1053.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Launchd?"
+    },
+    "T1556.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Provider DLL?"
+    },
+    "T1546.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Windows Management Instrumentation Event Subscription?"
+    },
+    "T1596.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: CDNs?"
+    },
+    "T1497.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: User Activity Based Checks?"
+    },
+    "T1141": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Input Prompt?"
+    },
+    "T1496.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Service Hijacking?"
+    },
+    "T1585.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Accounts?"
+    },
+    "T1072": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Software Deployment Tools?"
+    },
+    "T1041": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration Over C2 Channel?"
+    },
+    "T1134.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Parent PID Spoofing?"
+    },
+    "T1591": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Gather Victim Org Information?"
+    },
+    "T1060": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Registry Run Keys / Startup Folder?"
+    },
+    "T1606": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Forge Web Credentials?"
+    },
+    "T1621": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Multi-Factor Authentication Request Generation?"
+    },
+    "T1554": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compromise Host Software Binary?"
+    },
+    "T1552.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Chat Messages?"
+    },
+    "T1059.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: PowerShell?"
+    },
+    "T1023": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Shortcut Modification?"
+    },
+    "T1546.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Change Default File Association?"
+    },
+    "T1055.014": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: VDSO Hijacking?"
+    },
+    "T1026": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Multiband Communication?"
+    },
+    "T1071.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: File Transfer Protocols?"
+    },
+    "T1679": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Selective Exclusion?"
+    },
+    "T1122": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Component Object Model Hijacking?"
+    },
+    "T1015": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Accessibility Features?"
+    },
+    "T1212": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exploitation for Credential Access?"
+    },
+    "T1546.014": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Emond?"
+    },
+    "T1102.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: One-Way Communication?"
+    },
+    "T1590": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Gather Victim Network Information?"
+    },
+    "T1210": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exploitation of Remote Services?"
+    },
+    "T1502": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Parent PID Spoofing?"
+    },
+    "T1142": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Keychain?"
+    },
+    "T1534": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Internal Spearphishing?"
+    },
+    "T1169": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Sudo?"
+    },
+    "T1574.010": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Services File Permissions Weakness?"
+    },
+    "T1547.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Registry Run Keys / Startup Folder?"
+    },
+    "T1199": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Trusted Relationship?"
+    },
+    "T1136.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Account?"
+    },
+    "T1069.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Local Groups?"
+    },
+    "T1149": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: LC_MAIN Hijacking?"
+    },
+    "T1593": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Search Open Websites/Domains?"
+    },
+    "T1562.013": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable or Modify Network Device Firewall?"
+    },
+    "T1098": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Account Manipulation?"
+    },
+    "T1170": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Mshta?"
+    },
+    "T1048": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration Over Alternative Protocol?"
+    },
+    "T1547.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Kernel Modules and Extensions?"
+    },
+    "T1678": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Delay Execution?"
+    },
+    "T1056.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: GUI Input Capture?"
+    },
+    "T1097": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Pass the Ticket?"
+    },
+    "T1686.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Device Firewall?"
+    },
+    "T1588.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Tool?"
+    },
+    "T1052.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration over USB?"
+    },
+    "T1574.013": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: KernelCallbackTable?"
+    },
+    "T1597": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Search Closed Sources?"
+    },
+    "T1053.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Systemd Timers?"
+    },
+    "T1566": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Phishing?"
+    },
+    "T1061": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Graphical User Interface?"
+    },
+    "T1542.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: ROMMONkit?"
+    },
+    "T1218.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compiled HTML File?"
+    },
+    "T1496.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compute Hijacking?"
+    },
+    "T1070.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Share Connection Removal?"
+    },
+    "T1090.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Multi-hop Proxy?"
+    },
+    "T1110": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Brute Force?"
+    },
+    "T1059.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Unix Shell?"
+    },
+    "T1137.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Outlook Forms?"
+    },
+    "T1219.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Remote Access Hardware?"
+    },
+    "T1157": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Dylib Hijacking?"
+    },
+    "T1562.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable or Modify Tools?"
+    },
+    "T1565": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data Manipulation?"
+    },
+    "T1559": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Inter-Process Communication?"
+    },
+    "T1001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data Obfuscation?"
+    },
+    "T1039": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data from Network Shared Drive?"
+    },
+    "T1584.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Web Services?"
+    },
+    "T1601": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Modify System Image?"
+    },
+    "T1574": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hijack Execution Flow?"
+    },
+    "T1036.012": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Browser Fingerprint?"
+    },
+    "T1059.011": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Lua?"
+    },
+    "T1027.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Indicator Removal from Tools?"
+    },
+    "T1204.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Malicious Image?"
+    },
+    "T1543.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Container Service?"
+    },
+    "T1078": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Valid Accounts?"
+    },
+    "T1571": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Non-Standard Port?"
+    },
+    "T1585.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Social Media Accounts?"
+    },
+    "T1073": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DLL Side-Loading?"
+    },
+    "T1055.012": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Process Hollowing?"
+    },
+    "T1068": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exploitation for Privilege Escalation?"
+    },
+    "T1564.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Resource Forking?"
+    },
+    "T1531": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Account Access Removal?"
+    },
+    "T1110.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Credential Stuffing?"
+    },
+    "T1208": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Kerberoasting?"
+    },
+    "T1027": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Obfuscated Files or Information?"
+    },
+    "T1556.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Multi-Factor Authentication?"
+    },
+    "T1114.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Remote Email Collection?"
+    },
+    "T1505.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: IIS Components?"
+    },
+    "T1036.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Invalid Code Signature?"
+    },
+    "T1683": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Generate Content?"
+    },
+    "T1564.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Run Virtual Instance?"
+    },
+    "T1154": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Trap?"
+    },
+    "T1027.014": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Polymorphic Code?"
+    },
+    "T1201": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Password Policy Discovery?"
+    },
+    "T1546": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Event Triggered Execution?"
+    },
+    "T1546.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Unix Shell Configuration Modification?"
+    },
+    "T1187": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Forced Authentication?"
+    },
+    "T1134.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SID-History Injection?"
+    },
+    "T1599": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Boundary Bridging?"
+    },
+    "T1486": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data Encrypted for Impact?"
+    },
+    "T1488": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disk Content Wipe?"
+    },
+    "T1690": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Prevent Command History Logging?"
+    },
+    "T1553": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Subvert Trust Controls?"
+    },
+    "T1548.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Elevated Execution with Prompt?"
+    },
+    "T1592.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Firmware?"
+    },
+    "T1573": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Encrypted Channel?"
+    },
+    "T1174": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Password Filter DLL?"
+    },
+    "T1547.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Authentication Package?"
+    },
+    "T1218.010": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Regsvr32?"
+    },
+    "T1002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data Compressed?"
+    },
+    "T1567.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration to Text Storage Sites?"
+    },
+    "T1081": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Credentials in Files?"
+    },
+    "T1592.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Software?"
+    },
+    "T1128": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Netsh Helper DLL?"
+    },
+    "T1056": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Input Capture?"
+    },
+    "T1566.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spearphishing Voice?"
+    },
+    "T1587.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exploits?"
+    },
+    "T1685": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable or Modify Tools?"
+    },
+    "T1593.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Social Media?"
+    },
+    "T1213.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Customer Relationship Management Software?"
+    },
+    "T1546.015": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Component Object Model Hijacking?"
+    },
+    "T1589.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Credentials?"
+    },
+    "T1195.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compromise Software Supply Chain?"
+    },
+    "T1036.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Rename Legitimate Utilities?"
+    },
+    "T1102.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Bidirectional Communication?"
+    },
+    "T1203": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exploitation for Client Execution?"
+    },
+    "T1595.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Wordlist Scanning?"
+    },
+    "T1667": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Email Bombing?"
+    },
+    "T1562.011": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spoof Security Alerting?"
+    },
+    "T1137.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Outlook Home Page?"
+    },
+    "T1573.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Asymmetric Cryptography?"
+    },
+    "T1567.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration to Cloud Storage?"
+    },
+    "T1570": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Lateral Tool Transfer?"
+    },
+    "T1574.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Path Interception by Unquoted Path?"
+    },
+    "T1608.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Install Digital Certificate?"
+    },
+    "T1168": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Local Job Scheduling?"
+    },
+    "T1166": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Setuid and Setgid?"
+    },
+    "T1037.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Startup Items?"
+    },
+    "T1100": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Web Shell?"
+    },
+    "T1186": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Process Doppelg\u00e4nging?"
+    },
+    "T1184": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SSH Hijacking?"
+    },
+    "T1614.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Language Discovery?"
+    },
+    "T1095": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Non-Application Layer Protocol?"
+    },
+    "T1075": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Pass the Hash?"
+    },
+    "T1059.013": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Container CLI/API?"
+    },
+    "T1027.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Steganography?"
+    },
+    "T1584.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DNS Server?"
+    },
+    "T1671": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Application Integration?"
+    },
+    "T1001.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Protocol or Service Impersonation?"
+    },
+    "T1012": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Query Registry?"
+    },
+    "T1030": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data Transfer Size Limits?"
+    },
+    "T1028": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Windows Remote Management?"
+    },
+    "T1550.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Web Session Cookie?"
+    },
+    "T1078.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain Accounts?"
+    },
+    "T1218.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Regsvcs/Regasm?"
+    },
+    "T1034": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Path Interception?"
+    },
+    "T1546.018": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Python Startup Hooks?"
+    },
+    "T1506": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Web Session Cookie?"
+    },
+    "T1553.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Install Root Certificate?"
+    },
+    "T1037.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Logon Script?"
+    },
+    "T1499": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Endpoint Denial of Service?"
+    },
+    "T1027.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compile After Delivery?"
+    },
+    "T1688": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Safe Mode Boot?"
+    },
+    "T1065": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Uncommonly Used Port?"
+    },
+    "T1614": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Location Discovery?"
+    },
+    "T1564.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: VBA Stomping?"
+    },
+    "T1197": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: BITS Jobs?"
+    },
+    "T1127.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: MSBuild?"
+    },
+    "T1656": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Impersonation?"
+    },
+    "T1578.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Modify Cloud Compute Configurations?"
+    },
+    "T1088": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Bypass User Account Control?"
+    },
+    "T1494": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Runtime Data Manipulation?"
+    },
+    "T1090.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain Fronting?"
+    },
+    "T1557.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: ARP Cache Poisoning?"
+    },
+    "T1562.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable or Modify Cloud Logs?"
+    },
+    "T1518.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Security Software Discovery?"
+    },
+    "T1564.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hidden Window?"
+    },
+    "T1493": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Transmitted Data Manipulation?"
+    },
+    "T1127.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: ClickOnce?"
+    },
+    "T1059.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Python?"
+    },
+    "T1070.010": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Relocate Malware?"
+    },
+    "T1591.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Identify Roles?"
+    },
+    "T1132": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data Encoding?"
+    },
+    "T1546.010": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: AppInit DLLs?"
+    },
+    "T1598": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Phishing for Information?"
+    },
+    "T1496": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Resource Hijacking?"
+    },
+    "T1684.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Impersonation?"
+    },
+    "T1585": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Establish Accounts?"
+    },
+    "T1588": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Obtain Capabilities?"
+    },
+    "T1546.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Screensaver?"
+    },
+    "T1147": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hidden Users?"
+    },
+    "T1556.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Conditional Access Policies?"
+    },
+    "T1578.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Create Cloud Instance?"
+    },
+    "T1500": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compile After Delivery?"
+    },
+    "T1555.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Secrets Management Stores?"
+    },
+    "T1213.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Code Repositories?"
+    },
+    "T1565.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Transmitted Data Manipulation?"
+    },
+    "T1003.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: /etc/passwd and /etc/shadow?"
+    },
+    "T1543.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Launch Agent?"
+    },
+    "T1569": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Services?"
+    },
+    "T1059.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Windows Command Shell?"
+    },
+    "T1055.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Proc Memory?"
+    },
+    "T1223": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compiled HTML File?"
+    },
+    "T1650": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Acquire Access?"
+    },
+    "T1601.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Patch System Image?"
+    },
+    "T1558.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Silver Ticket?"
+    },
+    "T1213": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data from Information Repositories?"
+    },
+    "T1070.009": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Clear Persistence?"
+    },
+    "T1059.012": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hypervisor CLI?"
+    },
+    "T1146": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Clear Command History?"
+    },
+    "T1555.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Windows Credential Manager?"
+    },
+    "T1036.010": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Masquerade Account Name?"
+    },
+    "T1519": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Emond?"
+    },
+    "T1194": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spearphishing via Service?"
+    },
+    "T1200": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hardware Additions?"
+    },
+    "T1219.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Remote Desktop Software?"
+    },
+    "T1505": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Server Software Component?"
+    },
+    "T1485": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data Destruction?"
+    },
+    "T1132.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Non-Standard Encoding?"
+    },
+    "T1556.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain Controller Authentication?"
+    },
+    "T1537": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Transfer Data to Cloud Account?"
+    },
+    "T1027.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: HTML Smuggling?"
+    },
+    "T1556.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Reversible Encryption?"
+    },
+    "T1027.010": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Command Obfuscation?"
+    },
+    "T1130": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Install Root Certificate?"
+    },
+    "T1022": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Data Encrypted?"
+    },
+    "T1070.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: File Deletion?"
+    },
+    "T1189": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Drive-by Compromise?"
+    },
+    "T1498": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Denial of Service?"
+    },
+    "T1651": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Administration Command?"
+    },
+    "T1546.016": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Installer Packages?"
+    },
+    "T1595.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Scanning IP Blocks?"
+    },
+    "T1158": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hidden Files and Directories?"
+    },
+    "T1221": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Template Injection?"
+    },
+    "T1037.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: RC Scripts?"
+    },
+    "T1134": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Access Token Manipulation?"
+    },
+    "T1209": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Time Providers?"
+    },
+    "T1111": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Multi-Factor Authentication Interception?"
+    },
+    "T1159": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Launch Agent?"
+    },
+    "T1027.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Software Packing?"
+    },
+    "T1584.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Serverless?"
+    },
+    "T1071.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Web Protocols?"
+    },
+    "T1059.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Visual Basic?"
+    },
+    "T1564.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hidden File System?"
+    },
+    "T1543.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Systemd Service?"
+    },
+    "T1668": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exclusive Control?"
+    },
+    "T1563.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: RDP Hijacking?"
+    },
+    "T1136": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Create Account?"
+    },
+    "T1547.013": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: XDG Autostart Entries?"
+    },
+    "T1584.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Server?"
+    },
+    "T1672": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Email Spoofing?"
+    },
+    "T1526": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Service Discovery?"
+    },
+    "T1204.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Malicious Copy and Paste?"
+    },
+    "T1151": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Space after Filename?"
+    },
+    "T1018": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Remote System Discovery?"
+    },
+    "T1046": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Service Discovery?"
+    },
+    "T1590.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain Properties?"
+    },
+    "T1518": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Software Discovery?"
+    },
+    "T1538": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Service Dashboard?"
+    },
+    "T1055.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Thread Local Storage?"
+    },
+    "T1622": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Debugger Evasion?"
+    },
+    "T1036.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Space after Filename?"
+    },
+    "T1547.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Re-opened Applications?"
+    },
+    "T1608.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SEO Poisoning?"
+    },
+    "T1550.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Pass the Hash?"
+    },
+    "T1052": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration Over Physical Medium?"
+    },
+    "T1574.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DLL Side-Loading?"
+    },
+    "T1105": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Ingress Tool Transfer?"
+    },
+    "T1216.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SyncAppvPublishingServer?"
+    },
+    "T1098.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Additional Email Delegate Permissions?"
+    },
+    "T1588.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Code Signing Certificates?"
+    },
+    "T1126": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Share Connection Removal?"
+    },
+    "T1648": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Serverless Execution?"
+    },
+    "T1548.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: TCC Manipulation?"
+    },
+    "T1084": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Windows Management Instrumentation Event Subscription?"
+    },
+    "T1160": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Launch Daemon?"
+    },
+    "T1027.018": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Invisible Unicode?"
+    },
+    "T1055.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Ptrace System Calls?"
+    },
+    "T1653": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Power Settings?"
+    },
+    "T1027.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Dynamic API Resolution?"
+    },
+    "T1021.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Remote Desktop Protocol?"
+    },
+    "T1037.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Logon Script (Windows)?"
+    },
+    "T1055.015": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: ListPlanting?"
+    },
+    "T1665": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hide Infrastructure?"
+    },
+    "T1484": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domain or Tenant Policy Modification?"
+    },
+    "T1220": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: XSL Script Processing?"
+    },
+    "T1596.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Scan Databases?"
+    },
+    "T1564.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Hidden Files and Directories?"
+    },
+    "T1578.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Create Snapshot?"
+    },
+    "T1591.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Determine Physical Locations?"
+    },
+    "T1137.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Office Test?"
+    },
+    "T1587": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Develop Capabilities?"
+    },
+    "T1173": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Dynamic Data Exchange?"
+    },
+    "T1003.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: NTDS?"
+    },
+    "T1686.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Firewall?"
+    },
+    "T1602.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SNMP (MIB Dump)?"
+    },
+    "T1686": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disable or Modify System Firewall?"
+    },
+    "T1001.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Steganography?"
+    },
+    "T1204.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Malicious Link?"
+    },
+    "T1550.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Application Access Token?"
+    },
+    "T1547.008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: LSASS Driver?"
+    },
+    "T1569.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Service Execution?"
+    },
+    "T1078.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Cloud Accounts?"
+    },
+    "T1480.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Environmental Keying?"
+    },
+    "T1008": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Fallback Channels?"
+    },
+    "T1680": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Local Storage Discovery?"
+    },
+    "T1564.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: NTFS File Attributes?"
+    },
+    "T1558.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Kerberoasting?"
+    },
+    "T1096": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: NTFS File Attributes?"
+    },
+    "T1003.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: DCSync?"
+    },
+    "T1124": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Time Discovery?"
+    },
+    "T1053.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: At?"
+    },
+    "T1035": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Service Execution?"
+    },
+    "T1055.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Dynamic-link Library Injection?"
+    },
+    "T1086": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: PowerShell?"
+    },
+    "T1588.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exploits?"
+    },
+    "T1556": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Modify Authentication Process?"
+    },
+    "T1546.017": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Udev Rules?"
+    },
+    "T1056.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Credential API Hooking?"
+    },
+    "T1495": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Firmware Corruption?"
+    },
+    "T1490": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Inhibit System Recovery?"
+    },
+    "T1546.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Netsh Helper DLL?"
+    },
+    "T1566.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spearphishing via Service?"
+    },
+    "T1090.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Internal Proxy?"
+    },
+    "T1216": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Script Proxy Execution?"
+    },
+    "T1094": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Custom Command and Control Protocol?"
+    },
+    "T1102.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Dead Drop Resolver?"
+    },
+    "T1118": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: InstallUtil?"
+    },
+    "T1001.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Junk Data?"
+    },
+    "T1598.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Spearphishing Service?"
+    },
+    "T1043": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Commonly Used Port?"
+    },
+    "T1505.006": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: vSphere Installation Bundles?"
+    },
+    "T1552.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Container API?"
+    },
+    "T1584.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Domains?"
+    },
+    "T1505.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: SQL Stored Procedures?"
+    },
+    "T1556.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Network Device Authentication?"
+    },
+    "T1561.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Disk Content Wipe?"
+    },
+    "T1213.005": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Messaging Applications?"
+    },
+    "T1048.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exfiltration Over Unencrypted Non-C2 Protocol?"
+    },
+    "T1027.015": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Compression?"
+    },
+    "T1574.004": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Dylib Hijacking?"
+    },
+    "T1601.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Downgrade System Image?"
+    },
+    "T1684.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Email Spoofing?"
+    },
+    "T1078.003": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Local Accounts?"
+    },
+    "T1669": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Wi-Fi Networks?"
+    },
+    "T1211": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Exploitation for Stealth?"
+    },
+    "T1127": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Trusted Developer Utilities Proxy Execution?"
+    },
+    "T1529": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: System Shutdown/Reboot?"
+    },
+    "T1218.014": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: MMC?"
+    },
+    "T1564.010": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Process Argument Spoofing?"
+    },
+    "T1077": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Windows Admin Shares?"
+    },
+    "T1574.012": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: COR_PROFILER?"
+    },
+    "T1696": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Anti-Automation Evasion?"
+    },
+    "T1697": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Steal Application Specific Passwords?"
+    },
+    "T1698": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Indirect Prompt Injection?"
+    },
+    "T1699": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Direct Prompt Injection?"
+    },
+    "T1608.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: AI Result Poisoning?"
+    },
+    "T1696.001": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Automate CAPTCHA Completion?"
+    },
+    "T1696.002": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Avoid CAPTCHA?"
+    },
+    "T1685.007": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: Impair Autonomous Defenses?"
+    },
+    "T1700": {
+        "type": "noul",
+        "instructions": "Should this be tagged as MITRE Att&ck Technique: AI-Enabled Exfiltration?"
+    }
+}
